@@ -1,0 +1,6 @@
+{
+  "name": "My Schedule",
+  "description": "A modern, calm, personal daily planning and scheduling platform with Google Calendar sync, interactive Day/Week/Month calendar, task management, and multi-language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
